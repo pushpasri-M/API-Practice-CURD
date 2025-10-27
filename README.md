@@ -11,7 +11,7 @@ This project is designed to help beginners understand how to:
 ✅ Interact with a REST API using HttpClient
 ✅ Save and retrieve data from a cloud-based API (crudcrud.com)
 ---
-📂 Project Structure (Example)
+## 📂 Project Structure (Example)
 ```
 API-Practice-CURD/
 ├── APIBase.sln
@@ -23,7 +23,7 @@ API-Practice-CURD/
 │   └── Student.cs – Sample data model
 └── Program.cs – App entry point
 ```
-📬 Available CRUD Operations (Conceptually)
+## 📬 Available CRUD Operations (Conceptually)
 ```
 | Feature    | HTTP Method | Endpoint         | Status             |
 | ---------- | ----------- | ---------------- | ------------------ |
