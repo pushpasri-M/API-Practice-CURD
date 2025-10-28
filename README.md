@@ -1,14 +1,17 @@
-API-Practice-CURD
- A beginner-friendly C# Windows Forms project that demonstrates how to send and retrieve form data using RESTful API endpoints. This project uses the public CRUD API service from crudcrud.com
+## API-Practice-CURD
+```
+A beginner-friendly C# Windows Forms project that demonstrates how to send and retrieve form data using RESTful API endpoints. This project uses the public CRUD API service from crudcrud.com
 , which provides a temporary (24-hour) backend storage with a unique API key.
+```
 ---
-📌 Project Objective
-
+## 📌 Project Objective
+```
 This project is designed to help beginners understand how to:
 ✅ Collect data from a Windows Form
 ✅ Perform CRUD operations (Create, Read, Update, Delete)
 ✅ Interact with a REST API using HttpClient
 ✅ Save and retrieve data from a cloud-based API (crudcrud.com)
+```
 ---
 ## 📂 Project Structure (Example)
 ```
