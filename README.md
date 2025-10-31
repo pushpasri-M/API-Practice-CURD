@@ -26,7 +26,7 @@ API-Practice-CURD/
 └── Program.cs – App entry point
 ```
 ## 📬 Available CRUD Operations (Conceptually)
-```
+
 | Feature    | HTTP Method | Endpoint         | Status             |
 | ---------- | ----------- | ---------------- | ------------------ |
 | Create     | POST        | `/students`      | ✅                  |
@@ -34,7 +34,7 @@ API-Practice-CURD/
 | Read by ID | GET         | `/students/{id}` | ✅                  |
 | Update     | PUT         | `/students/{id}` | ✅ (if implemented) |
 | Delete     | DELETE      | `/students/{id}` | ✅ (if implemented) |
-```
+
 ## 🧪 Testing the API
 
 You can also test your endpoint using tools like:
